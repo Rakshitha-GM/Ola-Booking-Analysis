@@ -60,7 +60,7 @@ GROUP BY Customer_ID
 ORDER BY total_rides DESC
 LIMIT 5; 
   
-👉 The **full list of queries** is available in the [`ola.sql`](./ola.sql) file.  
+👉 The **full list of queries** is available in the [`ola sql.sql`](./ola sql.sql) file.  
 
 ## 📌 Key Learnings  
 - How different **vehicle categories** contribute to bookings and revenue.  
